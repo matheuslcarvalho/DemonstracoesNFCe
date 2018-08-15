@@ -16,8 +16,8 @@ object frmPrincipal: TfrmPrincipal
   object LabelAmbiente: TLabel
     Left = 183
     Top = 428
-    Width = 172
-    Height = 34
+    Width = 164
+    Height = 29
     Caption = 'Homologa'#231#227'o'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clRed
