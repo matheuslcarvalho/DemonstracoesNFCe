@@ -1,0 +1,1 @@
+<nfeResultMsg xmlns="http://www.portalfiscal.inf.br/nfe/wsdl/NFeAutorizacao4"><retEnviNFe versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><tpAmb>2</tpAmb><verAplic>PR-v4_1_7</verAplic><cStat>204</cStat><xMotivo>Duplicidade de NF-e. [nRec:918000000919296]</xMotivo><cUF>41</cUF><dhRecbto>2018-08-15T11:44:43-03:00</dhRecbto></retEnviNFe></nfeResultMsg>
